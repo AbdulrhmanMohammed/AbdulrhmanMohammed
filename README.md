@@ -2,21 +2,27 @@
 <h3 align="center">Software Developer | Computer Software Diploma Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=Building+impactful+software+solutions...;Passionate+about+clean+code;Learning+%26+building+everyday!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=Building+impactful+software+solutions...;Passionate+about+clean+code;Learning+%26+building+everyday!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdulrhmanMohammedP">
+    <img src="https://komarev.com/ghpvc/?username=AbdulrhmanMohammedP&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Holder of a **Computer Software Diploma** with a strong foundation in software development.
+- 🎓 Graduated with a **Computer Software Diploma** with a strong foundation in software engineering.
 - 💡 Passionate about building cross-platform applications and exploring new technologies.
 - 🛠️ Currently working on **Python**, **Flutter**, and **C#** projects.
 - 🎯 Goal: Building scalable, high-performance software systems.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,11 +38,29 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrhmanMohammedP&theme=darkhub&column=6&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
+
+---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrhmanMohammedP&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrhmanMohammedP&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrhmanMohammedP&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrhmanMohammedP&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrhmanMohammedP&theme=dark&hide_border=true" width="97%" />
+</p>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrhmanMohammedP&theme=react-dark&hide_border=true" width="97%" />
 </p>
