@@ -32,8 +32,3 @@
 
 ---
 
-### 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/AbdulrhmanMohammedP" alt="Abdulrhman's Github Contribution Chart" width="100%" />
-</p>
