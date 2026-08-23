@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman</h1>
-<h3 align="center">Software Developer & Computer Science Student</h3>
+<h3 align="center">Software Developer | Computer Software Diploma Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=Building+impactful+software+solutions...;Passionate+about+clean+code;Learning+%26+building+everyday!" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student focusing on **Software Engineering**.
+- 🎓 Holder of a **Computer Software Diploma** with a strong foundation in software development.
 - 💡 Passionate about building cross-platform applications and exploring new technologies.
 - 🛠️ Currently working on **Python**, **Flutter**, and **C#** projects.
 - 🎯 Goal: Building scalable, high-performance software systems.
